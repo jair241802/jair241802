@@ -2,7 +2,7 @@
 
 ✨ Creating bugs since **2024**  
 📚 I'm currently learning **Java, PostgreSQL, Spring Boot, Postman, and backend development fundamentals**.  
-Previously, I learned **SQL, JavaScript, HTML, CSS, Git, and AWS (basic level)**.  
+Previously, I learned **(SQL, JavaScript, HTML, CSS, Git, and AWS) basic level**.  
 🎯 Goals: Become a solid backend developer  
 🎲 Fun fact: Sometimes I break things to learn how to fix them  
 
