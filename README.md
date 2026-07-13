@@ -22,9 +22,6 @@ Previously, I learned **SQL, JavaScript, HTML, CSS, Git, and AWS (basic level)**
 </div>
 
 ---
-
-## A little animation:
-
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJqbWw3Mmx4bG1obWs0czhnZWtrMmEwanoxMGt1d3V2MWVkMmM5ayZlcD12MV9naWZzX3NlYXJjaCZjdT1n/Dh5q0sShxgp13DwrvG/200.gif" />
 </div>
